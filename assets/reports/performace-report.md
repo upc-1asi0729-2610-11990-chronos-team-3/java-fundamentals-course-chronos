@@ -6,15 +6,15 @@
     </tr>
     <tr>
         <td colspan="2"><b>Nombre de la Startup</b></td>
-        <td>SafeStep</td>
+        <td>Chronos</td>
         <td colspan="2"><b>Nombre del Producto</b></td>
-        <td colspan="3">SafeStep App</td>
+        <td colspan="3">SafeStep</td>
     </tr>
     <tr>
         <td colspan="2"><b>Entrega</b></td>
         <td>Final</td>
         <td colspan="2"><b>Team Leader</b></td>
-        <td colspan="3">[Integrante]</td>
+        <td colspan="3">Melgarejo Quiroz, Josep Eliu</td>
     </tr>
     <tr>
         <td><b>Item</b></td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <td><b>2</b></td>
-        <td>[Integrante 2]</td>
+        <td>Flores Eusebio, Angel Thyago</td>
         <td>[Responsabilidad]</td>
         <td>X</td>
         <td></td>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
         <td><b>3</b></td>
-        <td>[Integrante 3]</td>
+        <td>Melgarejo Quiroz, Josep Eliu</td>
         <td>[Responsabilidad]</td>
         <td>X</td>
         <td></td>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <td><b>4</b></td>
-        <td>[Integrante 4]</td>
+        <td>Miraval Pomalaya, Rodrigo Jesus</td>
         <td>[Responsabilidad]</td>
         <td>X</td>
         <td></td>
@@ -68,7 +68,7 @@
     </tr>
     <tr>
         <td><b>5</b></td>
-        <td>[Integrante 5]</td>
+        <td>Sanchez Espinoza, Mathias Enrique</td>
         <td>[Responsabilidad]</td>
         <td>X</td>
         <td></td>

@@ -17,7 +17,7 @@ El contenido está diseñado para ser claro, visual e interactivo, utilizando ej
 
 ## 📂 Repositorio de Código Fuente
 
-👉 [https://github.com/jorgeayaladev/java-fundamentals-course-safestep]
+👉 [https://github.com/jorgeayaladev/java-fundamentals-course-safestep](https://github.com/jorgeayaladev/java-fundamentals-course-safestep)
 
 El repositorio incluye:
 
@@ -107,8 +107,8 @@ Se desarrolla una aplicación básica en Java que permite:
 
 ## 🧪 Actividades prácticas
 
-| Lección | Actividad              | Enlace |
-| ------- | ---------------------- | ------ |
+| Lección | Actividad              | Enlace                                 |
+| ------- | ---------------------- | -------------------------------------- |
 | 1       | Hola Mundo             | [LINK](./completed-examples/lecture-1) |
 | 2       | Variables              | [LINK](./completed-examples/lecture-2) |
 | 3       | Condicionales y bucles | [LINK](./completed-examples/lecture-3) |
@@ -143,22 +143,26 @@ Se desarrolla una aplicación básica en Java que permite:
 
 ## 👥 Elaboración
 
-**Universidad Peruana de Ciencias Aplicadas**
-**Carrera**: Ingeniería de Software
-**Curso**: Desarrollo de Aplicaciones Open Source
-**Período**: 2026-10
+**Universidad Peruana de Ciencias Aplicadas** <br/>
+
+**Carrera**: Ingeniería de Software <br/>
+**Curso**: Desarrollo de Aplicaciones Open Source <br/>
+**Período**: 2026-10 <br/>
 **NRC**: 11990
 
-- 👥 **Nombre del equipo**: SafeStep
-- 👨‍💼 **Líder del equipo**: [Nombre completo]
-- 👨‍💻 **Integrantes**:
-  - **Ayala Fernandez, Jorge Brayan** - u20241c030
-  - [Nombre 2]
-  - [Nombre 3]
-  - [Nombre 4]
-  - [Nombre 5]
+👥 **Nombre del equipo**: Chronos
 
-📅 **Fecha de entrega**: 15/06/26
+👨‍💼 **Líder del equipo**: Melgarejo Quiroz, Josep Eliu
+
+👨‍💻 **Integrantes del equipo**:
+
+| N°  | Nombres y Apellidos               |   Código   |
+| :-: | --------------------------------- | :--------: |
+|  1  | Ayala Fernandez, Jorge Brayan     | U20241C030 |
+|  2  | Flores Eusebio, Angel Thyago      | U20231B781 |
+|  3  | Melgarejo Quiroz, Josep Eliu      | U202315165 |
+|  4  | Miraval Pomalaya, Rodrigo Jesus   | U202311082 |
+|  5  | Sanchez Espinoza, Mathias Enrique | U20231C524 |
 
 ---
 
