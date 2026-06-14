@@ -57,7 +57,7 @@ El repositorio incluye:
 
 ### 📙 Lección 3: Entrada de datos y estructuras de control (12 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Flores Eusebio, Angel Thyago
 - **Descripción**: Programas interactivos con entrada de datos, decisiones y repetición.
 - 🎬 **Video**: [LINK_YOUTUBE_LECCION_3]
 - 💻 **Práctica**: [LINK_JDOODLE_LECCION_3]
