@@ -59,8 +59,8 @@ El repositorio incluye:
 
 - **Encargado**: Flores Eusebio, Angel Thyago
 - **Descripción**: Programas interactivos con entrada de datos, decisiones y repetición.
-- 🎬 **Video**: [LINK_YOUTUBE_LECCION_3]
-- 💻 **Práctica**: [LINK_JDOODLE_LECCION_3]
+- 🎬 **Video**: https://youtu.be/l1yXSllyxOw
+- 💻 **Práctica**: https://www.jdoodle.com/ga/seUMGnzzPnatzOEVXCHLrQ%3D%3D
 - **Conclusiones clave**:
   - Uso de `Scanner` para entrada de datos.
   - Condicionales `if-else`.
