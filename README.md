@@ -31,7 +31,7 @@ El repositorio incluye:
 
 ### 📗 Lección 1: ¿Qué es la programación y Java? (12 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Josep Eliu Melgarejo Quiroz
 - **Descripción**: Introducción a la programación y al lenguaje Java. Se crea el primer programa "Hola Mundo".
 - 🎬 **Video**: https://www.youtube.com/watch?v=Lsf60_-uyFs&list=PLKaKd42m03VQ&index=1
 - **Conclusiones clave**:
@@ -75,7 +75,7 @@ El repositorio incluye:
 
 ### 📕 Lección 4: Métodos e Introducción a la POO (12 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**:  Josep Eliu Melgarejo Quiroz
 - **Descripción**: Creación de métodos (funciones) y primeros conceptos de clases y objetos.
 - 🎬 **Video**: https://www.youtube.com/watch?v=UvI1Yse6Eos&list=PLKaKd42m03VQ&index=3
 - 💻 **Práctica**: https://www.jdoodle.com/ga/iIVfQGCCDuXx%2BcBLUCqInQ%3D%3D
@@ -171,7 +171,6 @@ Se desarrolla una aplicación básica en Java que permite:
 |  1  | Ayala Fernandez, Jorge Brayan     | U20241C030 |
 |  2  | Flores Eusebio, Angel Thyago      | U20231B781 |
 |  3  | Melgarejo Quiroz, Josep Eliu      | U202315165 |
-|  4  | Miraval Pomalaya, Rodrigo Jesus   | U202311082 |
 |  5  | Sanchez Espinoza, Mathias Enrique | U20231C524 |
 
 ---
