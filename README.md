@@ -33,12 +33,17 @@ El repositorio incluye:
 
 - **Encargado**: [Integrante]
 - **Descripción**: Introducción a la programación y al lenguaje Java. Se crea el primer programa "Hola Mundo".
-- 🎬 **Video**: [LINK_YOUTUBE_LECCION_1]
-- 💻 **Práctica**: [LINK_JDOODLE_LECCION_1]
+- 🎬 **Video**: https://www.youtube.com/watch?v=Lsf60_-uyFs&list=PLKaKd42m03VQ&index=1
 - **Conclusiones clave**:
-  - Programar es dar instrucciones a la computadora.
-  - Java es un lenguaje versátil y fácil de aprender.
-  - Primer programa usando `System.out.println()`.
+  - Explicar qué significa programar.
+  - Identificar la entrada, el proceso y la salida de un programa.
+  - Definir qué es un algoritmo.
+  - Diferenciar un algoritmo del código fuente.
+  - Reconocer las etapas básicas para resolver un problema mediante programación.
+  - Explicar qué es un lenguaje de programación.
+  - Describir las características generales de Java.
+  - Reconocer la función del compilador javac.
+  - Diferenciar el código fuente del bytecode.
 
 ---
 
@@ -72,12 +77,17 @@ El repositorio incluye:
 
 - **Encargado**: [Integrante]
 - **Descripción**: Creación de métodos (funciones) y primeros conceptos de clases y objetos.
-- 🎬 **Video**: [LINK_YOUTUBE_LECCION_4]
-- 💻 **Práctica**: [LINK_JDOODLE_LECCION_4]
+- 🎬 **Video**: https://www.youtube.com/watch?v=UvI1Yse6Eos&list=PLKaKd42m03VQ&index=3
+- 💻 **Práctica**: https://www.jdoodle.com/ga/iIVfQGCCDuXx%2BcBLUCqInQ%3D%3D
 - **Conclusiones clave**:
-  - Métodos para reutilizar código.
-  - Parámetros.
-  - Clases como moldes y objetos como instancias.
+  - Diferenciar una clase de un objeto.
+  - Reconocer atributos y métodos dentro de una clase.
+  - Explicar la función de un método.
+  - Identificar el tipo de retorno, el nombre, los parámetros y el cuerpo de un método.
+  - Crear y llamar métodos mediante un objeto.
+  - Utilizar parámetros para enviar información a un método.
+  - Diferenciar un método void de uno que devuelve un valor.
+  - Utilizar return para devolver un resultado.
 
 ---
 
