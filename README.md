@@ -17,7 +17,7 @@ El contenido está diseñado para ser claro, visual e interactivo, utilizando ej
 
 ## 📂 Repositorio de Código Fuente
 
-👉 [https://github.com/jorgeayaladev/java-fundamentals-course-safestep](https://github.com/jorgeayaladev/java-fundamentals-course-safestep)
+👉 [https://github.com/upc-1asi0729-2610-11990-chronos-team-3/java-fundamentals-course-chronos](https://github.com/upc-1asi0729-2610-11990-chronos-team-3/java-fundamentals-course-chronos)
 
 El repositorio incluye:
 
@@ -91,11 +91,11 @@ El repositorio incluye:
 
 ---
 
-### 📒 Lección 5: POO, encapsulación y proyecto final (25:29 minutos)
+### 📒 Lección 5: POO, encapsulación y proyecto final (22:34 minutos)
 
 - **Encargado**: Ayala Fernandez, Jorge Brayan
 - **Descripción**: Aplicación de POO mediante encapsulación y desarrollo de un programa completo.
-- 🎬 **Video**: https://youtu.be/8VpIUphIWqM
+- 🎬 **Video**: https://youtu.be/nJVqNsySI3M
 - 💻 **Proyecto final**: https://www.jdoodle.com/ga/358IQwMTxDgbiuQaQirRsA%3D%3D
 - **Conclusiones clave**:
   - Uso de `private`, getters y setters.
@@ -146,7 +146,7 @@ Se desarrolla una aplicación básica en Java que permite:
 
 ## 🔗 Recursos adicionales
 
-- 📂 Código fuente completo: https://github.com/upc-safestep-team-3/java-fundamentals-course-safestep
+- 📂 Código fuente completo: https://github.com/upc-1asi0729-2610-11990-chronos-team-3/java-fundamentals-course-chronos
 - 🎥 Lista de reproducción: [LINK_PLAYLIST_YOUTUBE]
 
 ---
