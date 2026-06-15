@@ -147,7 +147,6 @@ Se desarrolla una aplicación básica en Java que permite:
 ## 🔗 Recursos adicionales
 
 - 📂 Código fuente completo: https://github.com/upc-1asi0729-2610-11990-chronos-team-3/java-fundamentals-course-chronos
-- 🎥 Lista de reproducción: [LINK_PLAYLIST_YOUTUBE]
 
 ---
 

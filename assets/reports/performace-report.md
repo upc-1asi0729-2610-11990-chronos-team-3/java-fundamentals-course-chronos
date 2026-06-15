@@ -39,7 +39,7 @@
     <tr>
         <td><b>2</b></td>
         <td>Flores Eusebio, Angel Thyago</td>
-        <td>[Responsabilidad]</td>
+        <td>Encargado de la "Lección 3: Entrada de datos y estructuras de control"</td>
         <td>X</td>
         <td></td>
         <td></td>
@@ -49,7 +49,7 @@
     <tr>
         <td><b>3</b></td>
         <td>Melgarejo Quiroz, Josep Eliu</td>
-        <td>[Responsabilidad]</td>
+        <td>Encargado de la "Lección 1: ¿Qué es la programación y Java?" y la "Lección 4: Métodos e Introducción a la POO"</td>
         <td>X</td>
         <td></td>
         <td></td>
@@ -59,17 +59,17 @@
     <tr>
         <td><b>4</b></td>
         <td>Miraval Pomalaya, Rodrigo Jesus</td>
-        <td>[Responsabilidad]</td>
+        <td>No se presentó</td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td>X</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>20</td>
+        <td>00</td>
     </tr>
     <tr>
         <td><b>5</b></td>
         <td>Sanchez Espinoza, Mathias Enrique</td>
-        <td>[Responsabilidad]</td>
+        <td>Encargado de la "Lección 2: Variables y tipos de datos"</td>
         <td>X</td>
         <td></td>
         <td></td>
