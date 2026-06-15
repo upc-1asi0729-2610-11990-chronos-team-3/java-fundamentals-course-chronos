@@ -49,12 +49,12 @@ El repositorio incluye:
 
 ### 📘 Lección 2: Variables y tipos de datos (12 minutos)
 
-- **Encargado**: [Integrante]
+- **Encargado**: Sánchez Espinoza, Mathias Enrique
 - **Descripción**: Uso de variables para almacenar información y tipos de datos básicos.
-- 🎬 **Video**: [LINK_YOUTUBE_LECCION_2]
-- 💻 **Práctica**: [LINK_JDOODLE_LECCION_2]
+- 🎬 **Video**: https://youtu.be/hZF0ctzkIws
+- 💻 **Práctica**: https://www.onlinegdb.com/
 - **Conclusiones clave**:
-  - Tipos de datos: `int`, `String`, `double`, `boolean`.
+  - Tipos de datos: `int`, `String`, `double`, `boolean`,`char`.
   - Declaración de variables.
   - Uso de operadores básicos.
 
